@@ -1,0 +1,37 @@
+
+
+.plansScreens>button{
+    cursor: pointer;
+}
+
+
+.butt1:hover{
+    color: white;
+background-color: #E50914;
+transform: scale(1.09);
+opacity: 1;
+transition: transform 350ms;
+}
+.butt2:hover{
+    color: white;
+    background-color: #E50914;
+    transform: scale(1.09);
+    opacity: 1;
+    transition: transform 350ms;
+}
+ .plansScreens>p{
+    height: 5px;
+}
+.plansScreens > h4{
+    height: 0px;
+}
+.butt1{
+    border: none;
+}
+.butt2{
+    border: none;
+}
+.butt2{
+    margin-bottom: 20px;
+}
+    
